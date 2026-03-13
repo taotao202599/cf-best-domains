@@ -5,8 +5,6 @@ visa.com.hk
 visa.com.tw
 visa.co.jp
 www.visaeurope.ch
-
-# --- 知名科技与实用工具站 ---
 time.is
 icook.hk
 icook.tw
@@ -14,31 +12,39 @@ www.digitalocean.com
 www.udacity.com
 speed.cloudflare.com
 ip.skk.moe
-
-# --- 游戏与其他高权重网站 ---
 csgo.com
 steamdb.info
 zgovps.com
 www.glassdoor.com
 www.wto.org
-
-# --- 跨境电商与支付巨头 (封锁附带成本极高) ---
 www.shopify.com
 checkout.stripe.com
 www.hugedomains.com
 www.udemy.com
 www.ebay.com
-
-# --- 开发者与云服务基础设施 (国内需求大，容忍度较高) ---
 cname.vercel-dns.com
 cdnjs.cloudflare.com
 registry.npmjs.org
 www.ipify.org
 cdn.jsdelivr.net
-
-# --- 社区维护的动态 CNAME (专门针对国内三大运营商测速优化) ---
-# 这类域名背后有脚本自动更新最优 IP，强烈建议优先尝试这类
 cf.shirker.diy.igamecj.com
 cm.cloudflare.1cf.icu
 cu.cloudflare.1cf.icu
 ct.cloudflare.1cf.icu
+mfa.gov.ua
+store.ubi.com
+staticdelivery.nexusmods.com
+fbi.gov
+cf.877774.xyz
+ct.877774.xyz
+cmcc.877774.xyz
+cu.877774.xyz
+cf.090227.xyz
+youxuan.cf.090227.xyz
+bestcf.top
+cloudflare.182682.xyz
+cf.0sm.com
+www.apple.com
+www.microsoft.com
+www.notion.so
+www.paypal.com
